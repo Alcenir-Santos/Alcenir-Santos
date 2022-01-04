@@ -1,20 +1,116 @@
-### Hi there 👋
-
-<p align="center" style="display:flex; flex-direction:column; margin-top: 1rem;">
-  <img align="center" style="margin-bottom: 1rem;" src="https://github-readme-stats.vercel.app/api?username=Alcenir-Santos&count_private=true&theme=nightowl&show_icons=true"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alcenir-Santos&theme=nightowl&layout=compact&langs_count=8"> 
+  <p align="center">
+    <a href="https://github.com/Alcenir-Santos/">
+      <img src="./Banner.svg" alt="banner"/>
+    </a>
+  </p>
+  <p align="center">
+ 
+   <a href="https://code.visualstudio.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
+   </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
+   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+   </a>
+   <a href="https://visualstudio.microsoft.com/pt-br/vs/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="visualstudio" width="40" height="40"/>
+   </a>
+   <a href="https://nodejs.org">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+   </a>
+   <a href="https://start.spring.io/">
+      <img src="https://img.icons8.com/color/144/000000/spring-logo.png" alt="spring-boot" width="40" height="40"/>
+   </a>
+   <a href="https://www.java.com/pt-BR/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="java" width="40" height="40"/>
+   </a>
+   <a href="https://git-scm.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+   </a>
 </p>
-<!--
-**Alcenir-Santos/Alcenir-Santoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h4 align="center">
+<details>
+<summary>Mais...</summary>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Alcenir</h1></img>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Alcenir-Santos">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=Alcenir-Santos&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/Alcenir-Santos">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alcenir-Santos&show_icons=true&include_all_commits=true&count_private=false&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/Alcenir-Santos">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=Alcenir-Santos&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
+</a>
+</p>
+
+<h3 align="center">Trabalhando em:</h3>
+
+<p align="center">
+  <a href="https://github.com/Alcenir-Santos/controle-veiculo-api">
+    <img
+      align="center"
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Alcenir-Santos&repo=controle-veiculo-api&theme=tokyonight">
+    </img>
+  </a>
+</p>
+
+<h3 align="center">Sobre mim:</h3>
+
+<p align="center">
+  <a href="https://www.instagram.com/cenii.santos/">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+    />
+  </a>
+   <a href="www.linkedin.com/in/alcenir-santos">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+  </a>
+  <!--a href="https://twitter.com/seu-usuario">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
+    />
+  </a>
+  <a href="https://discord.gg/seu-server">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
+  </a>
+ 
+  <a href="https://www.youtube.com/channel/link-do-canal">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
+    />
+  </a-->
+</p>
+<!--h5 align="center">Seu @</h5-->
+</details>
