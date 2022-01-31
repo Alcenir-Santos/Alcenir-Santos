@@ -74,7 +74,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Alcenir-Santos&repo=ponto-venda-rapida&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Alcenir-Santos&repo=ponto-venda-rapida&theme=tokyonight&description=Checkout web">
     </img>
   </a>
 </p>
