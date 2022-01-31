@@ -70,11 +70,11 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/Alcenir-Santos/controle-veiculo-api">
+  <a href="https://github.com/Alcenir-Santos/ponto-venda-rapida">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Alcenir-Santos&repo=controle-veiculo-api&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Alcenir-Santos&repo=ponto-venda-rapida&theme=tokyonight">
     </img>
   </a>
 </p>
